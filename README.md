@@ -1,4 +1,4 @@
-# Assessment
+# QP-Assessment
 
 A simple Grocery App built using **Node.js**, **Express**, **MySQL**, **Sequelize ORM**, **TypeScript**, and **Docker**. This app allows users to manage grocery items, users, and orders in a database.
 
