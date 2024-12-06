@@ -35,7 +35,7 @@ Follow these steps to get the application running locally or in a Docker contain
 git clone repo-url
 cd repo-name
 
-3. Set up the environment variables
+2. Set up the environment variables
 
 DB_HOST=localhost
 DB_USER=root
