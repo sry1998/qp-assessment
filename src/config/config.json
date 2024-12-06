@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Shweta@1234",
+    "database": "qp_assesment",
+    "host": "mysql",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Shweta@1234",
+    "database": "qp_assesment",
+    "host": "mysql",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Shweta@1234",
+    "database": "qp_assesment",
+    "host": "mysql",
+    "dialect": "mysql"
+  }
+}
